@@ -1,19 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Robert Han's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Robert M. Han
+Full stack web developer with 12+ years operational retail experience with deep insight into consumer interests that drives me to continuously improve on user UX/UI experience. My operational experience has allowed me to develop a strong ability to break down complexity into simple manageable tasks that helps me when I code. Independent, creative, resourceful, and collaborative team player with strong communication, influencing and problem solving skills.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <p>Email: robmj.han@gmail.com<p>
+<a href="robbyhan.com">Portfolio Website</a>
+| <a href="https://github.com/minjoomagic">GitHub</a>
+  | <a href="https://www.linkedin.com/in/hanrobert/">LinkedIn</a>
+  | <a href="https://medium.com/@robmj.han">Blog</a>
 </div>
 
 
-## Currently
+### ACHIEVEMENTS/AWARDS
 
-Standing on the shoulders of giants
+DEVELOPERWEEK NEW YORK 2019 Hackathon June 19-20 2019 1st Place Overall and 1st Place Canon Challenge
 
 ### Specialized in
 
